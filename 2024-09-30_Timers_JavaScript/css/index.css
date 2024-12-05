@@ -1,0 +1,23 @@
+#container{
+    background-color: black !important;
+    color: honeydew !important;
+}
+
+#clock{
+    background-color: #1d0433 !important;
+    float: left;
+
+}
+#stopwatch{
+    background-color: #1d0433 !important;
+    float: left;
+}
+#alarm{
+    background-color: #1d0433 !important;
+    float: left;
+}
+#timer{
+    background-color: #1d0433 !important;
+    float: left;
+}
+
