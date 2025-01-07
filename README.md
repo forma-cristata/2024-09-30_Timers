@@ -1,4 +1,4 @@
-# Time Tools App
+# Timer Tools App
 
 A versatile time management application built with vanilla JavaScript that offers multiple timing features.
 
@@ -15,7 +15,7 @@ A versatile time management application built with vanilla JavaScript that offer
     - Countdown functionality with hours, minutes, and seconds input
     - Alert notification when time is up
 
-## Technical Details
+## Details
 
 - Built with pure JavaScript
 - Uses ES6 modules for better code organization
